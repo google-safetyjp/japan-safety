@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="SHIFT-JIS"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+</head>
+
+<body>
+<!-- CONTAINER -->
+<div id="container02">
+
+  <!-- HEADER -->
+  <header id="header02">
+    <div id="areaHead02"></div>
+    <!--//areaHead02-->
+    <hr class="hrLine">
+  </header>
+  <!-- /HEADER -->
+
+  <article id="page02"></article>
+  <!-- /CONTENTS -->
+
+</div>
+<!-- /CONTAINER -->
+
+<!-- JavaScript -->
+<script type="text/javascript" src="./js/user.js"></script>
+
+</body>
+</html>
